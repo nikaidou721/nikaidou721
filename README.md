@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikaidou721&show_icons=true&theme=radical)](https://github.com/nikaidou721/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikaidou721&show_icons=true&theme=tokyonight)](https://github.com/nikaidou721/github-readme-stats)
 
 <!--
 **nikaidou721/nikaidou721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
