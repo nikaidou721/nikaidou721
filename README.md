@@ -1,3 +1,5 @@
+![image](https://github.com/nikaidou721/nikaidou721/blob/master/girl.gif)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikaidou721&show_icons=true&theme=tokyonight)](https://github.com/nikaidou721/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikaidou721&layout=compact&theme=tokyonight)](https://github.com/nikaidou721/github-readme-stats)
 <!--
